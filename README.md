@@ -17,7 +17,7 @@
 - Preparing for internships/fresher roles
 
 ### 🛠️ Featured Project
-**CodePulse** – Real-time collaborative code editor (MERN Clone)  
+**CodePulse** – Real-time collaborative code editor (MERN )  
 🔗 Live: [manavpusate7.netlify.app](https://manavpusate7.netlify.app/)
 
 > More data projects (dashboards, insights) coming soon!
